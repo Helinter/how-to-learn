@@ -69,7 +69,7 @@
   width: 765px;
   height: 608px;
   z-index: 1;
-  object-fit: cover
+  object-fit: cover;
 }
 
 .header__subtitle {
